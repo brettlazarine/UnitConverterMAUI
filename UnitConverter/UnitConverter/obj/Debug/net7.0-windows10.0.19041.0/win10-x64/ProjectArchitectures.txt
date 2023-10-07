@@ -1,0 +1,1 @@
+C:\Udemy\MAUI\UnitConverterMAUI\UnitConverter\UnitConverter\UnitConverter.csproj;x64

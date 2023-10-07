@@ -1,4 +1,5 @@
 is_global = true
+build_property.PropertyChangedAnalyzerConfiguration = 
 build_property.TargetFramework = net7.0-android
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
@@ -31,6 +32,18 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = UnitConverter.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Udemy/MAUI/UnitConverterMAUI/UnitConverter/UnitConverter/MVVM/Views/ConverterView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UnitConverter.MVVM.Views.ConverterView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\ConverterView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\ConverterView.xaml
+
+[C:/Udemy/MAUI/UnitConverterMAUI/UnitConverter/UnitConverter/MVVM/Views/MenuView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = UnitConverter.MVVM.Views.MenuView.xaml
+build_metadata.AdditionalFiles.TargetPath = MVVM\Views\MenuView.xaml
+build_metadata.AdditionalFiles.RelativePath = MVVM\Views\MenuView.xaml
 
 [C:/Udemy/MAUI/UnitConverterMAUI/UnitConverter/UnitConverter/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

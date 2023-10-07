@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jNGc1gyDT6ab2d1EfsLRXIB8v/nHSPpLGqJ2BqDpjUpBxEb5DHLq5R8gQHQoOOrUqAnB9/Nf6/RKD6mtqbIFTg==",
+  "dgSpecHash": "2v21ZuySSSC+J2YEYyELpeBWwSK5u6uharDRxYFIJ2Uxj7yjqWffz4XSjXOOx/N7OzBtMQRbAiOWmHBp0lotGQ==",
   "success": true,
   "projectFilePath": "C:\\Udemy\\MAUI\\UnitConverterMAUI\\UnitConverter\\UnitConverter\\UnitConverter.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jblaz\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -19,6 +20,8 @@
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.86\\microsoft.maui.graphics.win2d.winui.desktop.7.0.86.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
+    "C:\\Users\\jblaz\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\jblaz\\.nuget\\packages\\unitsnet\\5.35.0\\unitsnet.5.35.0.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\xamarin.android.glide.annotations\\4.13.2.2\\xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "C:\\Users\\jblaz\\.nuget\\packages\\xamarin.android.glide.disklrucache\\4.13.2.2\\xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",
